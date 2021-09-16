@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @noob-200
-- 👀 I’m interested in programming (web development,game development)
-- 🌱 I’m currently learning (python)
+- 👀 I’m interested in programming (web development,games
+- )
+- 🌱 I’m currently learning (web development)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
